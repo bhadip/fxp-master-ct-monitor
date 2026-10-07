@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Live Data & State
+*.csv
+*_last_seen.txt
+
+# Logs
+monitor.log
+monitor_error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
