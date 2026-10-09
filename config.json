@@ -1,0 +1,18 @@
+{
+  "Superman": {
+    "id": "133",
+    "active": true
+  },
+  "Boat": {
+    "id": "46",
+    "active": true
+  },
+  "Canoe": {
+    "id": "267",
+    "active": true
+  },
+  "Captain": {
+    "id": "277",
+    "active": true
+  }
+}
